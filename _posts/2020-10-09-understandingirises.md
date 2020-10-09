@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Understanding Irises
+subtitle: A study of three Iris species
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [Art of Data], [Iris]
+tags: [Art of Data]
 ---
 
 For centuries, the Iris has been regarded as one of the world's most precious flowers. [Symbolizing royalty and power](https://www.flowershopnetwork.com/blog/10-weird-facts-about-irises/), the violet flower is the [state flower of Tennessee](https://sos.tn.gov/products/state-flowers) and was the subject of several [Vincent Van Gogh masterpieces](https://www.metmuseum.org/art/collection/search/436528). However, the numbers behind the Iris that make it so unique remain a mystery. Here, I will examine three popular types of Irises, Iris Setosa, Iris Virginica, and Iris Versicolor, and discuss their measurements.
