@@ -157,4 +157,4 @@ If you are using the same dataset as me, when you print the final results, you s
 * 917.0
 * -25.0
 
-Additionally, the average turned out to be 6.24. If you got all these same values, congratulations, you have successfully built a working postfix calculator with Python!
+Additionally, the average turned out to be 529.91. If you got all these same values, congratulations, you have successfully built a working postfix calculator with Python!
